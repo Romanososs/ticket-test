@@ -1,4 +1,4 @@
-package com.example.test.ui.theme
+package com.example.test
 
 import androidx.annotation.Keep
 import androidx.compose.foundation.layout.Column
